@@ -328,7 +328,6 @@ You will find the information needed to follow the steps for the journey into "s
                 "message": "This can be any message"
               }
 ```
-![alt text](images/image-67.png)
 
 ![alt text](images/image-68.png)
 
