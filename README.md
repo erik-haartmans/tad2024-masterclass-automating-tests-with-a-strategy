@@ -486,8 +486,6 @@ You will find the information needed to follow the steps for the journey into "s
 
 ![alt text](images/image-93.png)
 
-![alt text](images/image-94.png)
-
 ![alt text](images/image-95.png)
 
 ![alt text](images/image-96.png)
